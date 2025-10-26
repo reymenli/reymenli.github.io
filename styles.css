@@ -41,7 +41,7 @@ a {
 .project img{
     width: 300px;
     height: 300px;
-    margin: auto;
+    margin: 10px;
     border: 2px solid goldenrod;
     display: block;
 }
