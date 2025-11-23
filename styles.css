@@ -27,11 +27,11 @@ a {
 .projects { 
     display:flex; 
     flex-wrap:wrap;
-    color: mediumblue;
 } 
 
 .projects h2 {
     /* display the h2 on its own line, not with the sections blobs */
+    color: mediumblue;
     width: 100%;
 }
 
